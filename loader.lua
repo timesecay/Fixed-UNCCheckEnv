@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/timesecay/Fixed-UNCCheckEnv/refs/heads/main/latest.lua"))()
